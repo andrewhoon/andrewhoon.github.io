@@ -24,3 +24,7 @@
     margin-right: auto;
     display: block;
 }
+.image:before {
+    background-image: url('../../images/fall-autumn-red-season.jpg');
+    /*background-color: green;*/
+}
